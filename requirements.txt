@@ -1,0 +1,5 @@
+pandas
+streamlit
+streamlit_chat
+sentence_transformers
+scikit-learn
